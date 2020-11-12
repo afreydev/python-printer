@@ -3,3 +3,4 @@ dist
 build
 venv
 python_printer.egg-info
+**/__pycache__
