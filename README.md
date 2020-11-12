@@ -1,3 +1,3 @@
 # Python printer
 
-This is an awesome modeule to print messages in your console!
+This is an awesome module to print messages in your console!
